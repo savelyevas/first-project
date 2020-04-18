@@ -1,8 +1,14 @@
-.border {
+body {
+background-color: tomato;
+}
+.header {
     margin: auto;
+}
+.border {
+    width: 10px;
     color: aqua;
 }
 .bebe {
-    margin: auto;
+    width: 10px;
     color: violet;
 }
